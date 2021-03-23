@@ -1,16 +1,20 @@
-### Hi there 👋
+### 👋 Hello, world!
 
-<!--
-**TriForMine/triformine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm TriForMine, a independent developer.
+I learnt programming since my 10 years old.
 
-Here are some ideas to get you started:
+⌨️ I’m currently working on:
+- [Isekai Maid](https://www.isekaimaid.xyz/), a waifu discord bot project.
+- [Anime Streaming FR](https://beta.animestreamingfr.fr/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm using the following languages:
+- Node.js
+- Deno
+- Javascript
+- Typescript
+- React / NextJS
+- PostgreSQL
+
+[![TriForMine's GitHub stats](https://github-readme-stats.vercel.app/api?username=TriForMine&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TriForMine&layout=compact&hide=c%2B%2B,makefile,python)](https://github.com/anuraghazra/github-readme-stats)
