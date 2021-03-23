@@ -1,6 +1,6 @@
 ### 👋 Hello, world!
 
-I'm TriForMine, a independent developer.
+I'm TriForMine, an independent developer.
 I learnt programming since my 10 years old.
 
 ⌨️ I’m currently working on:
