@@ -7,7 +7,7 @@ I learnt programming since my 10 years old.
 - [Isekai Maid](https://www.isekaimaid.xyz/), a waifu discord bot project.
 - [Anime Streaming FR](https://beta.animestreamingfr.fr/)
 
-I'm using the following languages:
+My main programming languages are:
 - Node.js
 - Deno
 - Javascript
@@ -15,6 +15,7 @@ I'm using the following languages:
 - React / NextJS
 - PostgreSQL
 - Rust
+And more ...
 
 [![TriForMine's GitHub stats](https://github-readme-stats.vercel.app/api?username=TriForMine&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
