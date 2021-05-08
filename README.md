@@ -5,7 +5,7 @@ I learnt programming since my 10 years old.
 
 ⌨️ I’m currently working on:
 - [Isekai Maid](https://www.isekaimaid.xyz/), a waifu discord bot project.
-- [Anime Streaming FR](https://beta.animestreamingfr.fr/)
+- [Anime Streaming FR](https://www.animestreamingfr.fr/)
 
 My main programming languages are:
 - Node.js
