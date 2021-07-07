@@ -1,22 +1,30 @@
 ### 👋 Hello, world!
 
-I'm TriForMine, an independent developer.
-I learnt programming since my 10 years old.
+I'm TriForMine, creator of Isekai Maid. I learnt scripting since my 10 years old and I'm currently 17th years old.
+
+---
 
 ⌨️ I’m currently working on:
-- [Isekai Maid](https://www.isekaimaid.xyz/), a waifu discord bot project.
-- [Anime Streaming FR](https://www.animestreamingfr.fr/)
+- [Isekai Maid](https://www.isekaimaid.xyz/), a waifu discord bot project using [discordeno](https://github.com/discordeno/discordeno).
+- Some random public/private project avalaible on my github profile.
 
-My main programming languages are:
-- Node.js
-- Deno
-- Javascript
-- Typescript
-- React / NextJS
-- PostgreSQL
-- Rust
-And more ...
+---
 
-[![TriForMine's GitHub stats](https://github-readme-stats.vercel.app/api?username=TriForMine&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+🔧 I mainly use the following languages:
+- Javascript / Typescript ([Deno](https://deno.land/)/[Node.js](https://nodejs.org/))
+- [React](https://reactjs.org/) / [NextJS](https://nextjs.org/)
+- [Postgresql](https://www.postgresql.org/) for databases
+- I'm currently learning and having fun with [rust](https://www.rust-lang.org/)
+- I also tried a lot of other languages like C++, C#, Python, Lua, Java, ect.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TriForMine&layout=compact&hide=c%2B%2B,makefile,python)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+⚙ I mainly use the following softwares:
+- [Intellij Idea](https://www.jetbrains.com/idea/)
+- [Brave](https://brave.com/)
+- [Discord](https://discord.com/)
+
+---
+✉ You can contact me on 
+- Discord: TriForMine#8592
+- Email: [triformine@isekaimaid.xyz](mailto:triformine@isekaimaid.xyz)
