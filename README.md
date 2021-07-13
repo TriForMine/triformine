@@ -26,5 +26,6 @@ I'm TriForMine, creator of Isekai Maid. I learnt scripting since my 10 years old
 
 ---
 ✉ You can contact me on 
+- Keybase: https://keybase.io/triformine
 - Discord: TriForMine#8592
 - Email: [triformine@isekaimaid.xyz](mailto:triformine@isekaimaid.xyz)
