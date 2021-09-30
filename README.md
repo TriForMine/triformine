@@ -32,4 +32,4 @@ I'm TriForMine, creator of Isekai Maid. I learnt scripting since my 10 years old
 - Discord: [TriForMine#8592](https://discordapp.com/users/140909429993373697)
 - Email: [contact@triformine.dev](mailto:contact@triformine.dev)
 
-![GitHub metrics](https://metrics.lecoq.io/lumap?languages=1&gists=1&followup=1)
+![GitHub metrics](https://metrics.lecoq.io/triformine?languages=1&gists=1&followup=1)
