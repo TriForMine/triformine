@@ -50,4 +50,6 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_pagespeed: yes
           plugin_pagespeed_url: https://www.isekaimaid.xyz/
+          plugin_anilist: yes
+          
           repositories_forks: yes
