@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            834 Commits
+                            836 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="189.85572801888244" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="189.85572801888244" y="0" width="170.36222798062053" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="360.217955999503" y="0" width="84.51621146691959" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="444.73416746642255" y="0" width="9.979189381020548" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="454.7133568474431" y="0" width="2.83291022912918" height="8" fill="#1d365d"/>
-                    <rect mask="url(#languages-bar)" x="457.5462670765723" y="0" width="1.14528258703883" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="458.6915496636111" y="0" width="0.7182691153354446" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.40981877894654" y="0" width="0.5901812210534593" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="189.8093881290333" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="189.8093881290333" y="0" width="170.32064605437864" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="360.13003418341196" y="0" width="84.60785935967648" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="444.73789354308843" y="0" width="9.976753665535291" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="454.7146472086237" y="0" width="2.8322187738365736" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="457.5468659824603" y="0" width="1.1450030470455765" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="458.6918690295059" y="0" width="0.7180938005738938" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.4099628300798" y="0" width="0.5900371699202118" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -301,8 +301,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="315.84 329"/>
-                                <text x="60" y="60" dominant-baseline="central">96</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="312.55 329"/>
+                                <text x="60" y="60" dominant-baseline="central">95</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -1396,6 +1396,30 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">TriForMine/isekaimaid-images-microservice</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#35dd333</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/master'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f805ef7</div>
+                                        <div class="message">First try for profile</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">triformine-devtron/devtron-memnix</span>
                                     </div>
@@ -1491,32 +1515,6 @@
                                     <div class="commit">
                                         <div class="sha">#b98638a</div>
                                         <div class="message">Change compression</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">TriForMine/memnix-spa</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#770f5df</div>
-                                        <div class="message">Merge pull request #7 from TriForMine/develop
-
-🐛 Fix bugs and lint</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2cda9a1</div>
-                                        <div class="message">fix limit</div>
                                     </div>
                                 </div>
                             </section>
@@ -2173,7 +2171,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Mar 2022, 20:09:49 (timezone Europe/Paris) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 16 Mar 2022, 21:13:11 (timezone Europe/Paris) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
