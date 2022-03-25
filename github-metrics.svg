@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            841 Commits
+                            844 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="189.66798366683517" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="189.66798366683517" y="0" width="170.30253691112435" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="359.9705205779595" y="0" width="84.59886352810186" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="444.56938410606136" y="0" width="10.145825061509038" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="454.7152091675704" y="0" width="2.831917641491839" height="8" fill="#1d365d"/>
-                    <rect mask="url(#languages-bar)" x="457.5471268090622" y="0" width="1.1448813059373437" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="458.69200811499957" y="0" width="0.7180174500914016" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.41002556509096" y="0" width="0.5899744349090256" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="189.66803109708277" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="189.66803109708277" y="0" width="170.30250703123218" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="359.9705381283149" y="0" width="84.59884868507625" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="444.5693868133912" y="0" width="10.14582328140544" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="454.71521009479665" y="0" width="2.8319171446266997" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="457.54712723942333" y="0" width="1.1448811050658207" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="458.6920083444892" y="0" width="0.7180173241139244" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.4100256686031" y="0" width="0.58997433139693" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1376,6 +1376,66 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#92448b7</div>
+                                        <div class="message">fix recycle</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">TriForMine/isekaimaid-nextjs-website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#53212a5</div>
+                                        <div class="message">Update deps</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">TriForMine/isekaimaid-nextjs-website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#635ffb1</div>
+                                        <div class="message">Better disable and fixes</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">TriForMine/isekaimaid</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#2cd9451</div>
                                         <div class="message">fix bugs</div>
                                     </div>
@@ -1398,68 +1458,6 @@
                                     <div class="commit">
                                         <div class="sha">#d361c87</div>
                                         <div class="message">Fix</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">triformine-devtron/devtron-isekaimaid-website</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#84c1805</div>
-                                        <div class="message">release-98-env-5</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">TriForMine/memnix-spa</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/creator</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#92edf8e</div>
-                                        <div class="message">Merge pull request #10 from TriForMine/feat/creator
-
-Add create/edit/delete card and create mcq dialogs</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">TriForMine/memnix-spa</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/creator</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7f8fcb0</div>
-                                        <div class="message">Add required star to mcq answers</div>
                                     </div>
                                 </div>
                             </section>
@@ -2115,7 +2113,7 @@ Add create/edit/delete card and create mcq dialogs</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Mar 2022, 12:10:52 (timezone Europe/Paris) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 25 Mar 2022, 13:42:45 (timezone Europe/Paris) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
