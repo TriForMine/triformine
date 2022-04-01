@@ -1716,7 +1716,7 @@ Quick fix for deck create/edit issue</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 565k out of 88m users</span>
+                                    <span class="gh">ranked 566k out of 88m users</span>
                                 </div>
                                 <div class="text">Published 44 public repositories</div>
                             </div>
@@ -2181,7 +2181,7 @@ Quick fix for deck create/edit issue</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Apr 2022, 21:10:08 (timezone Europe/Paris) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 1 Apr 2022, 22:13:18 (timezone Europe/Paris) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
