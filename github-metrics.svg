@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            928 Commits
+                            930 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="188.62755602961334" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="188.62755602961334" y="0" width="168.89663041487643" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="357.5241864444898" y="0" width="84.4926577835933" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="442.0168442280831" y="0" width="12.034807286666386" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="454.0516515147495" y="0" width="2.8085098978653917" height="8" fill="#1d365d"/>
-                    <rect mask="url(#languages-bar)" x="456.8601614126149" y="0" width="1.2923379685918353" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.1524993812067" y="0" width="1.1354180758986423" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="459.2879174571053" y="0" width="0.7120825428946651" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="188.63428467769614" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="188.63428467769614" y="0" width="168.90265522913134" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="357.5369399068275" y="0" width="84.49567177249172" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="442.0326116793192" y="0" width="12.035236587584455" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="454.06784826690364" y="0" width="2.8086100819272413" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="456.8764583488309" y="0" width="1.2759751290594399" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.1524334778903" y="0" width="1.1354585780862356" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="459.28789205597656" y="0" width="0.7121079440234179" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -301,8 +301,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="312.55 329"/>
-                                <text x="60" y="60" dominant-baseline="central">95</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="305.97 329"/>
+                                <text x="60" y="60" dominant-baseline="central">93</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -1396,6 +1396,30 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">TriForMine/py-chess-tk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cd3f2ee</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/master'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1dd7683</div>
+                                        <div class="message">Fix moves</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">TriForMine/triformine</span>
                                     </div>
@@ -1454,37 +1478,6 @@
                                         <span class="code">deepsource-transform-60892408</span>
                                         in
                                         <span class="repo">TriForMine/py-chess-tk</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">TriForMine/py-chess-tk</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b0cd3db</div>
-                                        <div class="message">Merge pull request #15 from TriForMine/deepsource-transform-60892408
-
-Format code with black</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f6067a</div>
-                                        <div class="message">Format code with black
-
-This commit fixes the style issues introduced in c3481b6 according to the output
-from black.
-
-Details: https://deepsource.io/gh/TriForMine/py-chess-tk/transform/777e8543-fd02-41f1-9898-036447f6b8fe/</div>
                                     </div>
                                 </div>
                             </section>
@@ -2141,7 +2134,7 @@ Details: https://deepsource.io/gh/TriForMine/py-chess-tk/transform/777e8543-fd02
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Apr 2022, 09:12:23 (timezone Europe/Paris) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 6 Apr 2022, 10:15:08 (timezone Europe/Paris) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
