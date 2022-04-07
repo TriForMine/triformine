@@ -12,6 +12,13 @@ I'm TriForMine, creator of Isekai Maid. I learnt scripting since my 10 years old
 
 ---
 
+.
+🔬 I mainly contribute to the following projects:
+- [discordeno](https://github.com/discordeno/discordeno)
+- [memnix](https://github.com/memnix/memnix-spa)
+
+---
+
 🔧 I mainly use the following languages:
 - Javascript / Typescript ([Deno](https://deno.land/)/[Node.js](https://nodejs.org/))
 - [React](https://reactjs.org/) / [NextJS](https://nextjs.org/)
