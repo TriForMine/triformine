@@ -1599,7 +1599,7 @@ Update deps</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 516k out of 90m users</span>
+                                    <span class="gh">ranked 517k out of 90m users</span>
                                 </div>
                                 <div class="text">Published 47 public repositories</div>
                             </div>
@@ -1637,7 +1637,7 @@ Update deps</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 39.1k out of 304m repositories</span>
+                                    <span class="gh">ranked 39.1k out of 305m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 875 stars</div>
                             </div>
@@ -1950,7 +1950,7 @@ Update deps</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.07m out of 304m repositories</span>
+                                    <span class="gh">ranked 4.07m out of 305m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2065,7 +2065,7 @@ Update deps</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 May 2022, 08:16:05 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 8 May 2022, 09:12:27 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
