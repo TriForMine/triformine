@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1041 Commits
+                            1043 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="197.8430022506637" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="197.8430022506637" y="0" width="161.14341027506117" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="358.98641252572486" y="0" width="81.18976732712154" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="440.17617985284636" y="0" width="11.750453813308049" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="451.92663366615443" y="0" width="2.658031025795106" height="8" fill="#1d365d"/>
-                    <rect mask="url(#languages-bar)" x="454.58466469194957" y="0" width="2.114395371474785" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="456.6990600634243" y="0" width="1.844906924426148" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="458.54396698785047" y="0" width="1.4560330121495" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="197.73873438372593" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="197.73873438372593" y="0" width="161.05848394726937" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="358.7972183309953" y="0" width="81.38940913646364" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="440.18662746745895" y="0" width="11.744261050659247" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="451.9308885181182" y="0" width="2.656630181579434" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="454.5875186996976" y="0" width="2.113281035901938" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="456.70079973559956" y="0" width="1.8439346155371794" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="458.54473435113675" y="0" width="1.4552656488632543" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1386,6 +1386,46 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#a9bb62a</div>
+                                        <div class="message">Add role cache</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">TriForMine/isekaimaid-cache-microservice</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6dbfda6</div>
+                                        <div class="message">Optimize</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">TriForMine/isekaimaid-cache-microservice</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#e8a2805</div>
                                         <div class="message">Fix timestamp</div>
                                     </div>
@@ -1428,46 +1468,6 @@
                                     <div class="commit">
                                         <div class="sha">#c6f5914</div>
                                         <div class="message">Update types and try deleting old messages</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">TriForMine/isekaimaid</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0800064</div>
-                                        <div class="message">Add gateway logs</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">TriForMine/isekaimaid</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f192c08</div>
-                                        <div class="message">Refactor utils</div>
                                     </div>
                                 </div>
                             </section>
@@ -2125,7 +2125,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 May 2022, 22:14:06 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 29 May 2022, 23:11:56 (timezone Europe/Paris) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
