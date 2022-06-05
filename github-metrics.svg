@@ -1669,7 +1669,7 @@ https://app.snyk.io/org/teamtriformine/project/5274226e-45a9-4bec-baed-308a6de54
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="152.05205205205206 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="152.36236236236238 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1692,9 +1692,9 @@ https://app.snyk.io/org/teamtriformine/project/5274226e-45a9-4bec-baed-308a6de54
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 35.1k out of 311m repositories</span>
+                                    <span class="gh">ranked 35k out of 311m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 981 stars</div>
+                                <div class="text">Maintaining a repository with 983 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2120,7 +2120,7 @@ https://app.snyk.io/org/teamtriformine/project/5274226e-45a9-4bec-baed-308a6de54
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jun 2022, 00:11:08 (timezone Europe/Paris) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 6 Jun 2022, 01:11:45 (timezone Europe/Paris) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
