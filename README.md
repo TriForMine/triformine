@@ -5,7 +5,8 @@ I'm TriForMine, creator of Isekai Maid. I learnt scripting since my 10 years old
 ---
 
 ⌨️ I’m currently working on:
-- [Isekai Maid](https://www.isekaimaid.xyz/), a waifu discord bot project using [discordeno](https://github.com/discordeno/discordeno).
+- [Isekai Maid](https://www.isekaimaid.com/), a waifu discord bot project using [discordeno](https://github.com/discordeno/discordeno).
+- [AniClicker](https://github.com/TriForMine/aniclicker), an anime multiplayer browser clicker game.
 - [Kwik](https://github.com/TriForMine/kwik), a deno database using messagepack files.
 - [My Website](https://www.triformine.dev/)
 - Some random public/private project avalaible on my github profile.
@@ -23,7 +24,7 @@ I'm TriForMine, creator of Isekai Maid. I learnt scripting since my 10 years old
 - [React](https://reactjs.org/) / [NextJS](https://nextjs.org/)
 - [Postgresql](https://www.postgresql.org/) for databases
 - [Rust](https://www.rust-lang.org/) and [Remix](https://remix.run/)
-- I also tried a lot of other languages like C++, C#, Python, Lua, Java, ect..
+- I also tried a lot of other languages like C++, C#, Python, Lua, Java, PHP, vb.net, ect..
 
 ---
 
