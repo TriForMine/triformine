@@ -1,6 +1,6 @@
 ### 👋 Hello, world!
 
-I'm TriForMine, creator of Isekai Maid. I learnt scripting since my 10 years old and I'm currently 18th years old.
+I'm TriForMine, creator of Isekai Maid. I learnt scripting since my 10 years old and I'm currently 19th years old.
 
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=triformine)](https://holopin.io/@triformine)
 
