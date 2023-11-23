@@ -9,8 +9,6 @@ I'm TriForMine, creator of Isekai Maid. I learnt scripting since my 10 years old
 
 ⌨️ I’m currently working on:
 - [Isekai Maid](https://www.isekaimaid.com/), a waifu discord bot project using [discordeno](https://github.com/discordeno/discordeno).
-- [AniClicker](https://github.com/TriForMine/aniclicker), an anime multiplayer browser clicker game.
-- [Kwik](https://github.com/TriForMine/kwik), a deno database using messagepack files.
 - [My Website](https://www.triformine.dev/)
 - Some random public/private project avalaible on my github profile.
 
