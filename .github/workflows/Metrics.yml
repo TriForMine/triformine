@@ -58,4 +58,8 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_url: https://www.triformine.dev/
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_notable: yes
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: "76561198117168743"
           repositories_forks: yes
