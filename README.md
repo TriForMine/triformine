@@ -8,7 +8,7 @@ I'm TriForMine, creator of Isekai Maid. I learnt scripting since my 10 years old
 ---
 
 ⌨️ I’m currently working on:
-- [Isekai Maid](https://www.isekaimaid.com/), a waifu discord bot project using [discordeno](https://github.com/discordeno/discordeno).
+- [Isekai Maid](https://www.isekaimaid.com/), a waifu discord bot project using [discordeno](https://github.com/discordeno/discordeno), [Bun](https://bun.sh/), [Postgresql](https://www.postgresql.org/), [RabbitMQ](https://www.rabbitmq.com/), [Rust](https://www.rust-lang.org/).
 - [My Website](https://www.triformine.dev/)
 - [Gameow](https://gameow.app/)
 - Some random public/private project avalaible on my github profile.
