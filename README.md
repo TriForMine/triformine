@@ -1,4 +1,4 @@
-### Hello, world!
+### 👋 Hello, world!
 
 I'm TriForMine, creator of Isekai Maid. I've been learning scripting since I was 10 years old and I'm currently 19 years old.
 
@@ -15,13 +15,13 @@ I'm TriForMine, creator of Isekai Maid. I've been learning scripting since I was
 
 ---
 
-**Contributions:**
+**🔬 Contributions:**
 
 * **discordeno** ([https://github.com/discordeno/discordeno](https://github.com/discordeno/discordeno))
 
 ---
 
-**Programming Languages:**
+**🔧 Programming Languages:**
 
 * JavaScript/TypeScript (Bun, Deno, Node.js)
 * React/Next.js
