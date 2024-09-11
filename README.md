@@ -1,43 +1,49 @@
-### 👋 Hello, world!
+### Hello, world!
 
-I'm TriForMine, creator of Isekai Maid. I learnt scripting since my 10 years old and I'm currently 19th years old.
+I'm TriForMine, creator of Isekai Maid. I've been learning scripting since I was 10 years old and I'm currently 19 years old.
 
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=triformine)](https://holopin.io/@triformine)
 
+---
+
+**⌨️ Current Projects:**
+
+* **Isekai Maid** ([https://www.isekaimaid.com/](https://www.isekaimaid.com/)): A waifu Discord bot project built using Discordeno, Bun, PostgreSQL, RabbitMQ, and Rust.
+* **My Website** ([https://www.triformine.dev/](https://www.triformine.dev/))
+* **Gameow** ([https://gameow.app/](https://gameow.app/))
+* Other public and private projects available on my GitHub profile.
 
 ---
 
-⌨️ I’m currently working on:
-- [Isekai Maid](https://www.isekaimaid.com/), a waifu discord bot project using [discordeno](https://github.com/discordeno/discordeno), [Bun](https://bun.sh/), [Postgresql](https://www.postgresql.org/), [RabbitMQ](https://www.rabbitmq.com/), [Rust](https://www.rust-lang.org/).
-- [My Website](https://www.triformine.dev/)
-- [Gameow](https://gameow.app/)
-- Some random public/private project avalaible on my github profile.
+**Contributions:**
+
+* **discordeno** ([https://github.com/discordeno/discordeno](https://github.com/discordeno/discordeno))
 
 ---
 
-🔬 I mainly contribute to the following projects:
-- [discordeno](https://github.com/discordeno/discordeno)
+**Programming Languages:**
+
+* JavaScript/TypeScript (Bun, Deno, Node.js)
+* React/Next.js
+* SQL (PostgreSQL)
+* Rust
+* I've also experimented with other languages like C++, C#, Python, Lua, Java, PHP, VB.NET, etc.
 
 ---
 
-🔧 I mainly use the following languages:
-- Javascript / Typescript [Bun](https://bun.sh/) / [Deno](https://deno.land/) / [Node.js](https://nodejs.org/)
-- [React](https://reactjs.org/) / [NextJS](https://nextjs.org/)
-- SQL with [Postgresql](https://www.postgresql.org/)
-- [Rust](https://www.rust-lang.org/)
-- I also tried a lot of other languages like C++, C#, Python, Lua, Java, PHP, vb.net, ect..
+**⚙️ Development Tools:**
+
+* IntelliJ IDEA
+* Brave
+* Discord
 
 ---
 
-⚙ I mainly use the following softwares:
-- [Intellij Idea](https://www.jetbrains.com/idea/)
-- [Brave](https://brave.com/)
-- [Discord](https://discord.com/)
+**✉️ Contact:**
 
----
-✉ You can contact me on 
-- Keybase: https://keybase.io/triformine
-- Discord: [TriForMine](https://discordapp.com/users/140909429993373697)
-- Email: [contact@triformine.dev](mailto:contact@triformine.dev)
+* Keybase: [https://keybase.io/triformine](https://keybase.io/triformine)
+* Discord: [TriForMine](https://discordapp.com/users/140909429993373697)
+* Email: contact@triformine.dev
+
 
 ![Metrics](/github-metrics.svg)
